@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://E:/xampp/htdocs/koopersmith_2015">
+      <excludeFolder url="file://E:/xampp/htdocs/koopersmith_2015/vendor/composer" />
+      <excludeFolder url="file://E:/xampp/htdocs/koopersmith_2015/vendor/danielstjules/stringy" />
+      <excludeFolder url="file://E:/xampp/htdocs/koopersmith_2015/vendor/doctrine/inflector" />
+      <excludeFolder url="file://E:/xampp/htdocs/koopersmith_2015/vendor/illuminate/contracts" />
+      <excludeFolder url="file://E:/xampp/htdocs/koopersmith_2015/vendor/illuminate/support" />
+      <excludeFolder url="file://E:/xampp/htdocs/koopersmith_2015/vendor/laracasts/generators" />
+      <excludeFolder url="file://E:/xampp/htdocs/koopersmith_2015/vendor/laravel-composer/laravel-composer" />
+      <excludeFolder url="file://E:/xampp/htdocs/koopersmith_2015/vendor/symfony/console" />
+      <excludeFolder url="file://E:/xampp/htdocs/koopersmith_2015/vendor/symfony/process" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library name="PHP">
+        <CLASSES>
+          <root url="file://E:/xampp/htdocs/koopersmith_2015/vendor/symfony/process" />
+          <root url="file://E:/xampp/htdocs/koopersmith_2015/vendor/doctrine/inflector" />
+          <root url="file://E:/xampp/htdocs/koopersmith_2015/vendor/laravel-composer/laravel-composer" />
+          <root url="file://E:/xampp/htdocs/koopersmith_2015/vendor/composer" />
+          <root url="file://E:/xampp/htdocs/koopersmith_2015/vendor/illuminate/contracts" />
+          <root url="file://E:/xampp/htdocs/koopersmith_2015/vendor/danielstjules/stringy" />
+          <root url="file://E:/xampp/htdocs/koopersmith_2015/vendor/symfony/console" />
+          <root url="file://E:/xampp/htdocs/koopersmith_2015/vendor/laracasts/generators" />
+          <root url="file://E:/xampp/htdocs/koopersmith_2015/vendor/illuminate/support" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file://E:/xampp/htdocs/koopersmith_2015/vendor/symfony/process" />
+          <root url="file://E:/xampp/htdocs/koopersmith_2015/vendor/doctrine/inflector" />
+          <root url="file://E:/xampp/htdocs/koopersmith_2015/vendor/laravel-composer/laravel-composer" />
+          <root url="file://E:/xampp/htdocs/koopersmith_2015/vendor/composer" />
+          <root url="file://E:/xampp/htdocs/koopersmith_2015/vendor/illuminate/contracts" />
+          <root url="file://E:/xampp/htdocs/koopersmith_2015/vendor/danielstjules/stringy" />
+          <root url="file://E:/xampp/htdocs/koopersmith_2015/vendor/symfony/console" />
+          <root url="file://E:/xampp/htdocs/koopersmith_2015/vendor/laracasts/generators" />
+          <root url="file://E:/xampp/htdocs/koopersmith_2015/vendor/illuminate/support" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="PHARS">
+        <CLASSES>
+          <root url="phar://E:/xampp/htdocs/koopersmith_2015/composer.phar" />
+        </CLASSES>
+        <SOURCES>
+          <root url="phar://E:/xampp/htdocs/koopersmith_2015/composer.phar" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+  </component>
+</module>
